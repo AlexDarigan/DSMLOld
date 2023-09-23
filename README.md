@@ -2,25 +2,76 @@
 
 ## About Me
 
+	Name: David Darigan
+ 	Email: C00263218@setu.ie
+	LinkedIn: 
+
+  __Experience__
+   		[CONTENT]
+  
+  __Education__
+   		[CONTENT]
+     
+
 ## Projects
+
+	Title: Magic The Gathering Card Statistics
+ 	Description: TBD
+  	Host Endpoint: TBD
+   	Quickstart: TBD
 
 ### Project - Card Attribute Distribution
 
-	[CONTENT]
+	Title: Card Attribute Distribution
+ 	Description: TBD
+  	API Endpoint: /
+   	REST Resources
+    		REST Methods
+      	Technologies
+       	Libraries
+	Data Sources
 
 ### Project - Price Trends
 
-	[CONTENT]
+	Title: Price Trends
+ 	Description: TBD
+  	API Endpoint: /
+   	REST Resources
+    		REST Methods
+      	Technologies
+       	Libraries
+	Data Sources
 
 ### Project - Price Predictions
 
-	[CONTENT]
+	Title: Price Predictions
+ 	Description: TBD
+  	API Endpoint: /
+   	REST Resources
+    		REST Methods
+      	Technologies
+       	Libraries
+	Data Sources
 
 ### Project - Image Classification
 
-	[CONTENT]
+	Title: Image Classification
+ 	Description: TBD
+  	API Endpoint: /
+   	REST Resources
+    		REST Methods
+      	Technologies
+       	Libraries
+	Data Sources
 
 ### Project - GUI Frontend
 
-	[CONTENT]
+	Title: WEB GUI Frontend
+ 	Description: TBD
+  	API Endpoint: /
+   	REST Resources
+    		REST Methods
+      	Technologies
+       	Libraries
+	Data Sources
 
