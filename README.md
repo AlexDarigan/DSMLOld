@@ -3,7 +3,9 @@
 ## About Me
 
 __Name__: David Darigan
+
 __Email__: C00263218@setu.ie
+
 __LinkedIn__: https://www.linkedin.com/in/daviddarigan/
 
 ### Experience
