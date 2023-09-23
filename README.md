@@ -30,9 +30,9 @@ Kotlin, Java, Python, Spring, Maven, Git, Docker, PowerShell, C#, HTTP, C, C++, 
 
 ## Project - Magic The Gathering Card Data Science APIs
 
-	A set of standalone RESTful APIs that measure data about Magic: The Gathering taken from the [Scryfall API](https://scryfall.com/docs/api) with an 		additional web frontend that call into them.
- 	
-  	Host Endpoint: http://api.insertnamehere
+A set of standalone RESTful APIs that measure data about Magic: The Gathering taken from the [Scryfall API](https://scryfall.com/docs/api) with an 		additional web frontend that call into them.
+
+__API Host__: http://api.insertnamehere
 
 ### Project - Measure of Central Tendency of Magic The Gathering Cards
 
