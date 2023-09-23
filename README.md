@@ -22,12 +22,11 @@ __DELL Technologies Undergraduate Internship March 2023 - August 2023__
 
 Kotlin, Java, Python, Spring, Maven, Git, Docker, PowerShell, C#, HTTP, C, C++, SQL, SQLite
 
-## Projects
+## Project - Magic The Gathering Card Data Science APIs
 
-	Title: Magic The Gathering Card Statistics
- 	Description: TBD
-  	Host Endpoint: TBD
-   	Quickstart: TBD
+	A set of standalone RESTful APIs that measure data about Magic: The Gathering taken from the [Scryfall API](https://scryfall.com/docs/api) with an 		additional web frontend that call into them.
+ 	
+  	Host Endpoint: http://api.insertnamehere
 
 ### Project - Measure of Central Tendency of Magic The Gathering Cards
 
