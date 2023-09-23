@@ -6,21 +6,21 @@
  	Email: C00263218@setu.ie
 	LinkedIn: https://www.linkedin.com/in/daviddarigan/
 
-  __Experience__
+__Experience__
 
-     * DELL Technologies Undergraduate Internship March 2023 - August 2023
-     	- Resolved several thousand vulnerabilities
-        - Deployed a PowerShell script to reduce workload by 2 days a year
-      	- Improved CI / CD KPI by 14%
-  
-  __Education__
+__DELL Technologies Undergraduate Internship March 2023 - August 2023__
+- Resolved several thousand vulnerabilities
+- Deployed a PowerShell script to reduce workload by 2 days a year
+- Improved CI / CD KPI by 14%
 
-  	* BSc Honors Undergraduate in Software Development in South East Technological University
-	* First Class Honors from Level 7 Exams
+__Education__
 
-  __Technologies__
+* BSc Honors Undergraduate in Software Development in South East Technological University
+* First Class Honors from Level 7 Exams
 
-  	Kotlin, Java, Python, Spring, Maven, Git, Docker, PowerShell, C#, HTTP, C, C++, SQL, SQLite
+__Technologies__
+
+Kotlin, Java, Python, Spring, Maven, Git, Docker, PowerShell, C#, HTTP, C, C++, SQL, SQLite
 
 ## Projects
 
