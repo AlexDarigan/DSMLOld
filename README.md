@@ -2,9 +2,9 @@
 
 ## About Me
 
-	Name: David Darigan
- 	Email: C00263218@setu.ie
-	LinkedIn: https://www.linkedin.com/in/daviddarigan/
+__Name__: David Darigan
+__Email__: C00263218@setu.ie
+__LinkedIn__: https://www.linkedin.com/in/daviddarigan/
 
 ### Experience
 
@@ -12,6 +12,9 @@ __DELL Technologies Undergraduate Internship March 2023 - August 2023__
 - Resolved several thousand vulnerabilities
 - Deployed a PowerShell script to reduce workload by 2 days a year
 - Improved CI / CD KPI by 14%
+
+__Google Developers Student Club Core Team Member 2021 - 2022__
+__Google Developers Student Club Team Lead 2022 - Present__
 
 ### Education
 
