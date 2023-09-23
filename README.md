@@ -16,6 +16,7 @@ __DELL Technologies Undergraduate Internship March 2023 - August 2023__
 - Improved CI / CD KPI by 14%
 
 __Google Developers Student Club Core Team Member 2021 - 2022__
+
 __Google Developers Student Club Team Lead 2022 - Present__
 
 ### Education
