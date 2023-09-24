@@ -86,14 +86,77 @@ Data Source: [Scryfall API](https://api.scryfall.com)
 
 ### Project - Price Trends
 
-	Title: Price Trends
- 	Description: TBD
-  	API Endpoint: /
-   	REST Resources
-    		REST Methods
-      	Technologies
-       	Libraries
-	Data Sources
+	# Project - Card Price Trends
+
+Get the price trend of a specific card day-by-day
+
+*API Route*: /trends
+
+| Resource | Description                     |
+|----------|---------------------------------|
+| cards    | A paginated collection of cards |
+| {id}     | A specific card via id          |
+
+Usage
+
+```http
+GET /trends/cards
+```
+
+returns
+
+```json
+{
+    page: 1,
+    pages: 20,
+    cards: {
+        "1": "Black Lotus",
+        "2": "Azure Mage",
+        "3": "Archivist",
+        "..": "..",
+    }
+}
+```
+
+```http
+GET /trends/cards/1
+```
+
+returns
+
+```json
+{
+    "name": "Black Lotus"
+    "prices": [
+        {
+            "year": 1993,
+            "month": 02,
+            "day": 24,
+            "price": 0.40,
+        },
+         {
+            "year": 1993,
+            "month": 02,
+            "day": 25,
+            "price": 1.00,
+        },
+         {
+            "year": 1993,
+            "month": 02,
+            "day": 26,
+            "price": 2.00,
+        },
+        ....
+    ]
+}
+```
+
+Technologies: HTTP, JSON, ?
+
+Libraries: ?
+
+Data Source: [Scryfall API](https://api.scryfall.com)
+
 
 ### Project - Price Predictions
 
