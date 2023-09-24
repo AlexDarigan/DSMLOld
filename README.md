@@ -131,19 +131,19 @@ returns
     "prices": [
         {
             "year": 1993,
-            "month": 02,
+            "month": 2,
             "day": 24,
             "price": 0.40,
         },
          {
             "year": 1993,
-            "month": 02,
+            "month": 2,
             "day": 25,
             "price": 1.00,
         },
          {
             "year": 1993,
-            "month": 02,
+            "month": 2,
             "day": 26,
             "price": 2.00,
         },
