@@ -108,9 +108,9 @@ returns
 
 ```json
 {
-    page: 1,
-    pages: 20,
-    cards: {
+    "page": 1,
+    "pages": 20,
+    "cards": {
         "1": "Black Lotus",
         "2": "Azure Mage",
         "3": "Archivist",
