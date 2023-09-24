@@ -33,6 +33,13 @@ Kotlin, Java, Python, Spring, Maven, Git, Docker, PowerShell, C#, HTTP, C, C++, 
 A set of standalone RESTful APIs that measure data about Magic: The Gathering taken from the [Scryfall API](https://scryfall.com/docs/api) with an 		additional web frontend that call into them.
 
 __API Host__: http://api.insertnamehere
+__Version__: v1
+
+Example GET Request Structure
+
+```http
+GET http://api.insertnamehere/v1/measures/colors
+```
 
 ### Project - Measure of Central Tendency of Magic The Gathering Cards
 
