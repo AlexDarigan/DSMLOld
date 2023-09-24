@@ -83,6 +83,7 @@ Libraries: ?
 
 Data Source: [Scryfall API](https://api.scryfall.com)
 
+_____________
 
 ### Project - Price Trends
 
