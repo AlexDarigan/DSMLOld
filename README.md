@@ -16,9 +16,10 @@ A [REST](https://en.wikipedia.org/wiki/REST)ful API to serve Magic: The Gatherin
 The primary navigation area of the project will be on the API Hostname as of the projects 
 version at that time.
 
-| Host 		      | Version	|
----------------------------
-| api.hostname	| 1		    |
+| Host         | Version |
+|--------------|---------|
+| api.hostname | 1       |
+
 
 This project will be a set of projects that exist as a single RESTful API. Each project shares the same general following structure
 
