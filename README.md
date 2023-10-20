@@ -35,6 +35,40 @@ This project will be a set of projects that exist as a single RESTful API. Each 
 | Data Sources     | The data sources used for that project (e.g scryfall[4])      |
 | Data Storage     | How and where our transformed data is stored (e.g CSV, Cloud) |
 
+An example request is of the form {api.hostname}/{project}/{resource(s)}
+
+__Example Request__
+
+```
+GET api.hostname/stats/colors 
+```
+
+__Example Response__
+
+```json
+{
+	"mode": "green",
+	"median": "red",
+	"mean": "blue"
+}
+```
+
+## Opportunities & Challenges
+
+__Opportunities__
+
+- To apply data models against real world changes
+- To examine RESTful API calls at scale
+- To become proficient in data science related technologies
+
+__Challenges__
+
+- Handling large quantities of data over the network
+- Accounting for customers emotional “hype” trend creating outliers
+- Prices may be affected by different game formats creating inconsistencies
+- Learning new data science technologies 
+
+
 ## Projects
 
 
